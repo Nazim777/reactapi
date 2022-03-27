@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.text{
+  background-color: aqua;
+  font-size: 30px;
+  padding: 10px;
+  margin: 10px;
+}
+.tab{
+  border: 1px solid orange;
+}
+.td{
+  border: 1 px solid cyan;
+}
